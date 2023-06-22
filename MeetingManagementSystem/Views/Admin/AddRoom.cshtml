@@ -1,0 +1,162 @@
+﻿@model MeetingManagementSystem.Models.MeetingRoom
+
+@{
+    ViewBag.Title = "AddRoom";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap" rel="stylesheet">
+<body style=" background-image: url(/images/bg1.jpg);
+        background-attachment: fixed;
+        background-size: cover;
+        width: 100%;
+        height: 100%;">
+    <style>
+        body {
+            background-color: #080710;
+        }
+
+        .background {
+            width: 430px;
+            height: 920px;
+            position: absolute;
+            transform: translate(-50%,-50%);
+            left: 50%;
+            top: 30%;
+        }
+
+        form {
+            height: 750px;
+            width: 500px;
+            background-color: darkslateblue;
+            position: absolute;
+            transform: translate(-50%,-50%);
+            top: 50%;
+            left: 50%;
+            border-radius: 10px;
+            border: 2px solid rgba(255,255,255,0.1);
+            box-shadow: 0 0 40px rgba(8,7,16,0.6);
+            padding: 50px 35px;
+        }
+
+            form * {
+                font-family: 'Poppins',sans-serif;
+                color: white;
+                letter-spacing: 0.5px;
+                outline: none;
+                border: none;
+            }
+
+            form h3 {
+                font-size: 32px;
+                font-weight: 500;
+                line-height: 42px;
+                text-align: center;
+            }
+
+        label {
+            display: inline;
+            margin-top: 5px;
+            padding-left: 12px;
+            font-size: 14px;
+            font-weight: 500;
+        }
+
+        input {
+            display: block;
+            height: 50px;
+            width: 80%;
+            background-color: rgba(255,255,255,0.07);
+            border-radius: 3px;
+            padding: 10px 10px;
+            margin-top: 8px;
+            margin-left: 20px;
+            font-size: 14px;
+            font-weight: 300;
+        }
+
+        textarea {
+            display: block;
+            height: 50px;
+            width: 80%;
+            background-color: rgba(255,255,255,0.07);
+            border-radius: 3px;
+            padding: 10px 10px;
+            margin-top: 8px;
+            margin-left: 20px;
+            font-size: 14px;
+            font-weight: 300;
+        }
+    </style>
+
+    @using (Html.BeginForm("AddRoom", "Admin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <h4>MeetingRoom</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.name, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.name, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.name, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.venue, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.venue, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.venue, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.imageurl, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            <input type="file" name="file" value="file" id="file" />
+
+
+            @Html.ValidationMessageFor(model => model.imageurl, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.facilities, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            <textarea rows="5" cols="50" id="facilities" name="facilities"></textarea>
+            @Html.ValidationMessageFor(model => model.facilities, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.costperday, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.costperday, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.costperday, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.capacity, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.capacity, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.capacity, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Add Room" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+    }
+    </body>
+  

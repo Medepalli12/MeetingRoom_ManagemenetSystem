@@ -1,0 +1,345 @@
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\mongocrypt.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\MeetingManagementSystem.dll.config
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\MeetingManagementSystem.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\MeetingManagementSystem.pdb
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\csc.exe
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\csc.exe.config
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\csc.rsp
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\csi.exe
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\csi.exe.config
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\csi.rsp
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.AppContext.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Console.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\vbc.exe
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\vbc.exe.config
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\vbc.rsp
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\DnsClient.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.Win32.Registry.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\MongoDB.Bson.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\MongoDB.Driver.Core.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\MongoDB.Driver.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\MongoDB.Libmongocrypt.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\SharpCompress.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\Snappier.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Buffers.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Memory.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Numerics.Vectors.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Security.AccessControl.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Security.Principal.Windows.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Text.Encoding.CodePages.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.Razor.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\WebGrease.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\ZstdSharp.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\DnsClient.xml
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.Win32.Registry.xml
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\MongoDB.Bson.xml
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\MongoDB.Driver.xml
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\MongoDB.Driver.Core.xml
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\Snappier.xml
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Buffers.xml
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Memory.xml
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Numerics.Vectors.xml
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Security.AccessControl.xml
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Security.Principal.Windows.xml
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Text.Encoding.CodePages.xml
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.Razor.xml
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\obj\Debug\MeetingManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\obj\Debug\MeetingManagementSystem.csproj.CopyComplete
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\obj\Debug\MeetingManagementSystem.dll
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\obj\Debug\MeetingManagementSystem.pdb
+C:\Users\dheres\Desktop\Proj\MeetingManagement\MeetingManagementSystem\obj\Debug\MeetingManagementSystem.csprojAssemblyReference.cache
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\mongocrypt.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\MeetingManagementSystem.dll.config
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\MeetingManagementSystem.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\MeetingManagementSystem.pdb
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\csc.exe
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\csc.exe.config
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\csc.rsp
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\csi.exe
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\csi.exe.config
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\csi.rsp
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.AppContext.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Console.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\vbc.exe
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\vbc.exe.config
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\vbc.rsp
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\DnsClient.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.Win32.Registry.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\MongoDB.Bson.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\MongoDB.Driver.Core.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\MongoDB.Driver.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\MongoDB.Libmongocrypt.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\SharpCompress.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Snappier.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Buffers.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Memory.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Numerics.Vectors.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Security.AccessControl.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Security.Principal.Windows.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Text.Encoding.CodePages.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.Razor.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\WebGrease.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\ZstdSharp.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\DnsClient.xml
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.Win32.Registry.xml
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\MongoDB.Bson.xml
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\MongoDB.Driver.xml
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\MongoDB.Driver.Core.xml
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Snappier.xml
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Buffers.xml
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Memory.xml
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Numerics.Vectors.xml
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Security.AccessControl.xml
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Security.Principal.Windows.xml
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Text.Encoding.CodePages.xml
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.Razor.xml
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\obj\Debug\MeetingManagementSystem.csprojAssemblyReference.cache
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\obj\Debug\MeetingManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\obj\Debug\MeetingManagementSystem.csproj.CopyComplete
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\obj\Debug\MeetingManagementSystem.dll
+C:\Users\dheres\Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\obj\Debug\MeetingManagementSystem.pdb
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\mongocrypt.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\MeetingManagementSystem.dll.config
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\MeetingManagementSystem.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\MeetingManagementSystem.pdb
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\csc.exe
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\csc.exe.config
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\csc.rsp
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\csi.exe
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\csi.exe.config
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\csi.rsp
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.AppContext.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Console.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\vbc.exe
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\vbc.exe.config
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\vbc.rsp
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\DnsClient.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.Win32.Registry.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\MongoDB.Bson.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\MongoDB.Driver.Core.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\MongoDB.Driver.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\MongoDB.Libmongocrypt.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\SharpCompress.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Snappier.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Buffers.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Memory.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Numerics.Vectors.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Security.AccessControl.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Security.Principal.Windows.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Text.Encoding.CodePages.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.Razor.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\WebGrease.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\ZstdSharp.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\DnsClient.xml
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.Win32.Registry.xml
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\MongoDB.Bson.xml
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\MongoDB.Driver.xml
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\MongoDB.Driver.Core.xml
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Snappier.xml
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Buffers.xml
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Memory.xml
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Numerics.Vectors.xml
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Security.AccessControl.xml
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Security.Principal.Windows.xml
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Text.Encoding.CodePages.xml
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.Razor.xml
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\obj\Debug\MeetingManagementSystem.csprojAssemblyReference.cache
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\obj\Debug\MeetingManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\obj\Debug\MeetingManagementSystem.csproj.CopyComplete
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\obj\Debug\MeetingManagementSystem.dll
+C:\Users\dheres\Desktop\Unused Desktop\swap\Proj\MeetingManagement\MeetingManagementSystem\obj\Debug\MeetingManagementSystem.pdb

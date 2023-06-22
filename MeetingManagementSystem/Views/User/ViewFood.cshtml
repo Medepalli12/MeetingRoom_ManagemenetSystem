@@ -1,0 +1,64 @@
+﻿@model IEnumerable<MeetingManagementSystem.Models.FoodCombo>
+
+@{
+    ViewBag.Title = "ViewFood";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ViewFood</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.foodid)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.food1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.food2)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.food3)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.costperperson)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.quantity)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.foodid)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.food1)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.food2)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.food3)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.costperperson)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.quantity)
+    </td>
+
+</tr>
+}
+
+</table>

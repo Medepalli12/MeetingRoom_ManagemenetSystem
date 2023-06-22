@@ -1,0 +1,89 @@
+﻿@model IEnumerable<MeetingManagementSystem.Models.FoodCombo>
+
+@{
+    ViewBag.Title = "AddFood";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Meeting room is booked succussfully, You can Add the food from below list.</h2>
+<br />
+<table>
+    <tr>
+        <td>
+            <h2>Indian Food</h2>
+        </td>
+        <td>
+           < h2>Chhole Bhature</h2>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h2>Chinese Food</h2>
+        </td>
+        <td>
+            <h2>Chicken and Waffles</h2>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h2>Italian Food</h2>
+        </td>
+        <td>
+            h2>Sausage</h2>
+        </td>
+    </tr>
+</table>
+<p>
+    @Html.ActionLink("Manage You Bookings", "ManageBookings")
+</p>
+
+<br />
+
+<table class="table">
+    <tr>
+
+        <th>
+            @Html.DisplayNameFor(model => model.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.food1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.food2)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.food3)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.costperperson)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+
+    <td>
+        @Html.DisplayFor(modelItem => item.name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.food1)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.food2)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.food3)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.costperperson)
+    </td>
+    <td>
+
+        @Html.ActionLink("Add Food", "BookFood", new { foodid = item.foodid })
+    </td>
+</tr>
+}
+
+</table>

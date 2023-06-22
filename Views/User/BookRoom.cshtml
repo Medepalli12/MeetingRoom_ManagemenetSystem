@@ -1,0 +1,165 @@
+﻿
+@{
+    ViewBag.Title = "BookRoom";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap" rel="stylesheet">
+<body style=" background-image: url(/images/ownerlogin.png);
+        background-attachment: fixed;
+        background-size: cover;
+        width: 100%;
+        height: 100%;">
+    <style>
+        body {
+            background-color: #080710;
+        }
+
+        .background {
+            width: 430px;
+            height: 920px;
+            position: absolute;
+            transform: translate(-50%,-50%);
+            left: 50%;
+            top: 30%;
+        }
+
+        form {
+            height: 400px;
+            width: 650px;
+            background-color: purple;
+            position: absolute;
+            transform: translate(-50%,-50%);
+            top: 40%;
+            left: 40%;
+            border-radius: 10px;
+            border: 2px solid rgba(255,255,255,0.1);
+            box-shadow: 0 0 40px rgba(8,7,16,0.6);
+            padding: 50px 35px;
+        }
+
+            form * {
+                font-family: 'Poppins',sans-serif;
+                color: white;
+                letter-spacing: 0.5px;
+                outline: none;
+                border: none;
+            }
+
+            form h3 {
+                font-size: 32px;
+                font-weight: 500;
+                line-height: 42px;
+                text-align: center;
+            }
+
+        label {
+            display: inline;
+            margin-top: 0px;
+            padding-left: 12px;
+            font-size: 14px;
+            font-weight: 500;
+        }
+
+        input {
+            display: block;
+            height: 50px;
+            width: 80%;
+            background-color: rgb(128, 128, 128);
+            border-radius: 3px;
+            padding: 10px 10px;
+            margin-top: 8px;
+            margin-left: 20px;
+            font-size: 14px;
+            font-weight: 300;
+        }
+    </style>
+
+    @using (Html.BeginForm())
+    {
+
+        <table>
+            <tr>
+                <td>Enter Number of People</td>
+                <td><input type="number" id="people" name="people" value="2" /></td>
+            </tr>
+            <tr>
+            <tr>
+                <td>Enter Start Time</td>
+                <td><input type="datetime-local" id="startdate" name="startdate"  /></td>
+            </tr>
+            
+            <tr>
+                <td>Enter End End</td>
+                <td><input type="datetime-local" id="enddate" name="enddate" /></td>
+            </tr>
+            <tr>
+                <td>Do you need food </td>
+                <td class="col-md-10">
+                    <select name="food" id="food" class="col-md-10" style=" display: block;
+            height: 50px;
+            width: 100%;
+            background-color: #080710;
+            border-radius: 3px;
+            padding: 0 10px;
+            margin-top: 8px;
+            font-size: 14px;
+            font-weight: 300;">
+                        <option value="yes">Yes</option>
+                        <option value="no">No</option>
+
+                    </select>
+                </td>
+            </tr>
+            
+            <tr>
+                <td colspan=6>
+                    <input type="submit" value="Book Now" onclick="return clientvalidate()" style=" width: 100%;
+            background-color: #ffffff;
+            color: #080710;
+            padding: 15px 0;
+            font-size: 18px;
+            font-weight: 600;
+            border-radius: 5px;
+            cursor: pointer;" />
+                </td>
+            </tr>
+
+        </table>
+
+      
+        <div style="color:red;font-weight:bold">
+            @ViewBag.error
+        </div>
+        <br />
+        <br />
+    }
+
+
+</body>
+
+<script>
+
+    var today = new Date().toISOString().slice(0, 16);
+    document.getElementsByName("startdate")[0].min = today;
+    document.getElementsByName("enddate")[0].min = today;
+
+</script>
+<script type="text/javascript">
+    function clientvalidate() {
+        if (document.getElementById("startdate").value == "") {
+            alert("Please provide startdate ");
+            return false;
+        }
+        else if (document.getElementById("enddate").value == "") {
+            alert("Please provide enddate");
+            return false;
+        }
+        else {
+            return true;
+        }
+    }
+</script>
+
